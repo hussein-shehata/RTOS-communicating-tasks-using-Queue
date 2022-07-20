@@ -1,1 +1,1 @@
-# RTos-communicating-tasks-using-Queue
+# RTOS-communicating-tasks-using-Queue
